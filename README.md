@@ -63,4 +63,5 @@ src="https://cardivo.vercel.app/api?name=Castlevnia%20~&description=Hi,%20i%27m%
 
 [![Coding](https://wakatime.com/badge/user/ef147abe-f36f-460c-87f3-51b50708c5bd.svg)](https://wakatime.com/@ef147abe-f36f-460c-87f3-51b50708c5bd)
 
-[![YuzuHoshinova's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ywxzyy&theme=xcode)](https://github.com/anuraghazra/github-readme-stats)
+[![YuzuHoshinova's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Castlevnia
+&theme=xcode)](https://github.com/anuraghazra/github-readme-stats)
