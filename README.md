@@ -48,7 +48,8 @@ const yuzu = () => {
 
 ### Statistik
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=Yuzu%20~&description=Hi,%20i%27m%20a%20just%20Anime,%20Nice%20to%20meet%20you%20👻&image=https://avatars.githubusercontent.com/u/112942676?s=96&v=4&backgroundColor=%23ecf0f1&github=yuzuhoshinova&pattern=leaf&colorPattern=%23eaeaea"/>
+src="https://cardivo.vercel.app/api?name=Castlevnia%20~&description=Hi,%20i%27m%20a%20just%20Anime,%20Nice%20to%20meet%20you%20👻&image=https://avatars.githubusercontent.com/u/110631529?s=96&v=4&backgroundColor=%23ecf0f1&github=Castlevnia1&pattern=leaf&colorPattern=%23eaeaea"/>
+
 
 
 ![YuzuHoshinova's github stats](https://github-readme-stats.vercel.app/api?username=yuzuhoshinova&show_icons=true&theme=tokyonight)
