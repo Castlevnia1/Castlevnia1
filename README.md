@@ -26,7 +26,7 @@
 
 ### About Me
 ```js
-const yuzu = () => {
+const castle = () => {
   return {
     pronouns: "Anime" | "null",
     country: "Isekai",
