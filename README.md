@@ -54,7 +54,7 @@ src="https://cardivo.vercel.app/api?name=Castlevnia%20~&description=Hi,%20i%27m%
 
 ![Castlevnia1's github stats](https://github-readme-stats.vercel.app/api?username=Castlevnia1&show_icons=true&theme=tokyonight)
 <p align="center">
-  <a href="https://github.com/yuzuhoshinova">
+  <a href="https://github.com/Castlevnia1">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Castlevnia1&langs_count=10&exclude_repo=deep-learning-specialization)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight" />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Castlevnia1&theme=tokyonight-duo&locale=en)](https://git.io/streak-stats)
