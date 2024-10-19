@@ -1,12 +1,4 @@
-<h1 align="center"> 
-    
-    • ▌│█║▌║▌║ 𝔸𝕃𝕆ℕ𝔼 ║▌║▌║█│▌ •
-    <br>
-          ────────⚪────────
-    <br>
-                    ◄◄⠀▐▐ ⠀►►
-    <br>
-     0:00 / 0:00 ───○   🔊ᴴᴰ ⚙ ❐ ⮎1⮌ <br></h1>
+<h1 align="center">   • ▌│█║▌║▌║ 𝔸𝕃𝕆ℕ𝔼 ║▌║▌║█│▌ •<br></h1>
 <div align="center">
  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2h2MzZyYWJnYzdwYWJtNmZmeTZkcGhyaWQxd24yNWp1a3p5MnQyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3ZrVw8NkxIly/giphy.gif" alt="Description" style="width: 600px; height: 500px;">
 </div>
