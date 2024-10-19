@@ -16,7 +16,7 @@
 
 <br>
 <h1 align="center">リヤン 〜<br>𝐶𝑎𝑠𝑡𝑙𝑒𝑣𝑛𝑖𝑎 𝐷𝑒𝑠𝑢!</h1>
-<img align="center" height="auto" src="https://imgur.com/a/qN8kKpr.jpg"/>
+<img align="center" height="auto" src="https://i.imgur.com/hs9O7aF.jpeg"/>
 
 
 
