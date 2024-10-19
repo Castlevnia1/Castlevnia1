@@ -69,27 +69,7 @@ src="https://cardivo.vercel.app/api?name=Castlevnia%20~&description=Hi,%20i%27m%
 
 
 
-ffffffffffffffffffff
 
-
-
-<div class="lastlogo" align="center">
-    <img src="https://media.giphy.com/media/1jgLDGD1Bn27e/giphy.gif?cid=ecf05e474gbgb2vl6fx5pfb6tq934gsiypiqrf61pdxw0azk&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="">
-    <img src="https://media.giphy.com/media/1jgLDGD1Bn27e/giphy.gif?cid=ecf05e474gbgb2vl6fx5pfb6tq934gsiypiqrf61pdxw0azk&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="">
-    <img src="https://media.giphy.com/media/1jgLDGD1Bn27e/giphy.gif?cid=ecf05e474gbgb2vl6fx5pfb6tq934gsiypiqrf61pdxw0azk&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="">
-    <img src="https://media.giphy.com/media/1jgLDGD1Bn27e/giphy.gif?cid=ecf05e474gbgb2vl6fx5pfb6tq934gsiypiqrf61pdxw0azk&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="">
-   
-</div>
-
-<style>
-   .lastlogo img{
-        border-radius: 2px;
-        border: red 2px solid;
-
-        width: 80px;
-        height: 90px;
-    }
-</style>
 
 
 
