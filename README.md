@@ -49,26 +49,37 @@ const castle = () => {
 
 ### statistics
 <div align="center">
-<img height="auto"
-src="https://cardivo.vercel.app/api?name=Castlevnia%20~&description=Hi,%20i%27m%20a%20just%20Anime,%20Nice%20to%20meet%20you%20👻&image=https://avatars.githubusercontent.com/u/110631529?s=96&v=4&backgroundColor=%23ecf0f1&github=Castlevnia1&pattern=leaf&colorPattern=%23eaeaea"/>
+  <!-- Card Profile Section -->
+  <img 
+    src="https://cardivo.vercel.app/api?name=Castlevnia%20~&description=Hi,%20i%27m%20a%20just%20Anime,%20Nice%20to%20meet%20you%20👻&image=https://avatars.githubusercontent.com/u/110631529?s=96&v=4&backgroundColor=%23ecf0f1&github=Castlevnia1&pattern=leaf&colorPattern=%23eaeaea" 
+    alt="Castlevnia Profile Card" 
+    style="height: auto;"
+  />
 
+  <!-- GitHub Stats -->
+  ![Castlevnia1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Castlevnia1&show_icons=true&theme=tokyonight)
 
-
-![Castlevnia1's github stats](https://github-readme-stats.vercel.app/api?username=Castlevnia1&show_icons=true&theme=tokyonight)
-<p>
+  <!-- Top Languages -->
   <a href="https://github.com/Castlevnia1">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Castlevnia1&langs_count=10&exclude_repo=deep-learning-specialization)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight" />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Castlevnia1&langs_count=10&exclude_repo=deep-learning-specialization&theme=tokyonight" 
+      alt="Castlevnia1's Top Languages" 
+    />
+  </a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Castlevnia1&theme=tokyonight-duo&locale=en)](https://git.io/streak-stats)
-</a>
-<h3> Time Spent </h3>
+  <!-- GitHub Streak Stats -->
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Castlevnia1&theme=tokyonight-duo&locale=en)](https://git.io/streak-stats)
 
-[![Coding](https://wakatime.com/badge/user/ef147abe-f36f-460c-87f3-51b50708c5bd.svg)](https://wakatime.com/@ef147abe-f36f-460c-87f3-51b50708c5bd)
+  <!-- Time Spent -->
+  <h3>Time Spent</h3>
 
+  <!-- WakaTime Badge -->
+  [![WakaTime Badge](https://wakatime.com/badge/user/ef147abe-f36f-460c-87f3-51b50708c5bd.svg)](https://wakatime.com/@ef147abe-f36f-460c-87f3-51b50708c5bd)
 
-[![Castlevnia1's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ywxzyy&theme=xcode)](https://github.com/anuraghazra/github-readme-stats)
-
+  <!-- WakaTime Stats -->
+  [![Castlevnia1's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ywxzyy&theme=xcode)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
 
 
 
