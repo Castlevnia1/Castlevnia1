@@ -48,13 +48,14 @@ const castle = () => {
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 ### statistics
-<img align="center" height="auto"
+<div align="center">
+<img height="auto"
 src="https://cardivo.vercel.app/api?name=Castlevnia%20~&description=Hi,%20i%27m%20a%20just%20Anime,%20Nice%20to%20meet%20you%20👻&image=https://avatars.githubusercontent.com/u/110631529?s=96&v=4&backgroundColor=%23ecf0f1&github=Castlevnia1&pattern=leaf&colorPattern=%23eaeaea"/>
 
 
 
 ![Castlevnia1's github stats](https://github-readme-stats.vercel.app/api?username=Castlevnia1&show_icons=true&theme=tokyonight)
-<p align="center">
+<p>
   <a href="https://github.com/Castlevnia1">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Castlevnia1&langs_count=10&exclude_repo=deep-learning-specialization)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight" />
 
@@ -67,7 +68,7 @@ src="https://cardivo.vercel.app/api?name=Castlevnia%20~&description=Hi,%20i%27m%
 
 [![Castlevnia1's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ywxzyy&theme=xcode)](https://github.com/anuraghazra/github-readme-stats)
 
-
+</div>
 
 
 
