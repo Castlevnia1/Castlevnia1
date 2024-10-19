@@ -63,12 +63,12 @@ const castle = () => {
   />
 
   <!-- GitHub Stats -->
-  ![Castlevnia1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Castlevnia1&show_icons=true&theme=merko)
+  ![Castlevnia1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Castlevnia1&show_icons=true&theme=ambient_gradient)
 
   <!-- Top Languages -->
   <a href="https://github.com/Castlevnia1">
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Castlevnia1&langs_count=10&exclude_repo=deep-learning-specialization&theme=merko" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Castlevnia1&langs_count=10&exclude_repo=deep-learning-specialization&theme=ambient_gradient" 
       alt="Castlevnia1's Top Languages" 
     />
   </a>
