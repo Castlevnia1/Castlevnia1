@@ -1,6 +1,6 @@
 <h1 align="center">A l o n e. 〜<br></h1>
 <div align="center">
-  <img alt="GIF" src="https://cdn.shoob.gg/images/cards/6/16e26f465189965b67fecb6aa9cfcbba91728b82c14f13c36dfacf85f3d90235.webp" />
+  <img alt="GIF" src="https://cdn.shoob.gg/images/cards/6/16e26f465189965b67fecb6aa9cfcbba91728b82c14f13c36dfacf85f3d90235.webp" width="200" />
 </div>
 
  <div align="center"> Visitor Count<br>
