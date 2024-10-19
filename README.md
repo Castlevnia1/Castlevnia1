@@ -6,7 +6,7 @@
 <div align="center">
     <div align="center" style="border: 2px gray solid; padding: 10px; display: inline-block;">
         <div style="text-align: center;">
-          <p> ꧁༺ 𝓥𝓘𝓢𝓘𝓣𝓞𝓡 𝓒𝓞𝓤𝓝𝓣𝓔𝓡 ༻꧂</p>
+          <p> ꧁༺ 𝕍𝕀𝕊𝕀𝕋𝕆ℝ ℂ𝕆𝕌ℕ𝕋𝔼ℝ ༻꧂</p>
             <img src="https://profile-counter.glitch.me/Castlevnia1/count.svg" alt="Visitor Counter" />
         </div>
     </div>
