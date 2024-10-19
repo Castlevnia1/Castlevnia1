@@ -63,18 +63,18 @@ const castle = () => {
   />
 
   <!-- GitHub Stats -->
-  ![Castlevnia1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Castlevnia1&show_icons=true&theme=ambient_gradient)
+  ![Castlevnia1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Castlevnia1&show_icons=true&theme=neon)
 
   <!-- Top Languages -->
   <a href="https://github.com/Castlevnia1">
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Castlevnia1&langs_count=10&exclude_repo=deep-learning-specialization&theme=ambient_gradient" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Castlevnia1&langs_count=10&exclude_repo=deep-learning-specialization&theme=neon" 
       alt="Castlevnia1's Top Languages" 
     />
   </a>
 
   <!-- GitHub Streak Stats -->
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Castlevnia1&theme=tokyonight-duo&locale=en)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Castlevnia1&theme=neon-duo&locale=en)](https://git.io/streak-stats)
 
   <!-- Time Spent -->
   <h3>Time Spent</h3>
