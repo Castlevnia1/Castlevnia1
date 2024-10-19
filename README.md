@@ -1,6 +1,6 @@
 <h1 align="center">   • ▌▌ ║ 𝔸𝕃𝕆ℕ𝔼 ║ ▌▌ •<br></h1>
 <div align="center">
- <img src="https://i.imgur.com/8dVgrOp.gif" alt="Description" style="width: 600px; height: 500px;">
+ <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTk4MTgyeGFsMXFxeXVnOHVhcWJmbDl1ODR5ZGE4b21jNXM5MTB0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/20yMrv0TmUggb1YWDT/giphy-downsized-large.gif" alt="Description" style="width: 600px; height: 500px;">
 </div>
 <br><br>
 <div align="center">
