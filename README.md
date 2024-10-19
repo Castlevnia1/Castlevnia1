@@ -71,6 +71,20 @@ src="https://cardivo.vercel.app/api?name=Castlevnia%20~&description=Hi,%20i%27m%
 
 
 
+<div align="center">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWM5b3lramRqOTc1bHI0dWNxamVpN2pibHh2bGx6em9najV3cHJvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3ohc0YpD0LR5wRyz1S/giphy.gif" alt="" style="border-radius: 2px; border: red 2px ; width: 100px; height: 90px;">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWM5b3lramRqOTc1bHI0dWNxamVpN2pibHh2bGx6em9najV3cHJvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3ohc0YpD0LR5wRyz1S/giphy.gif" alt="" style="border-radius: 2px; border: red 2px ; width: 100px; height: 90px;">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWM5b3lramRqOTc1bHI0dWNxamVpN2pibHh2bGx6em9najV3cHJvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3ohc0YpD0LR5wRyz1S/giphy.gif" alt="" style="border-radius: 2px; border: red 2px ; width: 100px; height: 90px;">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWM5b3lramRqOTc1bHI0dWNxamVpN2pibHh2bGx6em9najV3cHJvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3ohc0YpD0LR5wRyz1S/giphy.gif" alt="" style="border-radius: 2px; border: red 2px ; width: 100px; height: 90px;">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWM5b3lramRqOTc1bHI0dWNxamVpN2pibHh2bGx6em9najV3cHJvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3ohc0YpD0LR5wRyz1S/giphy.gif" alt="" style="border-radius: 2px; border: red 2px ; width: 100px; height: 90px;">
+    
+    <br>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzlyN2E5a3g4Z3AyNTJjb3p4djRlZDV5dTBxOWlja3Zvc3RuZW1qbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/eyvYnRdP8OQhQ0kW30/giphy.gif" alt="" style="border-radius: 2px; border: black 2px solid ; width: 600px; height: 90px; background-color: white;">
+    
+   
+  </div>
+
+
 
 
 
