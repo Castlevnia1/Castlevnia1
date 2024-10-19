@@ -3,11 +3,17 @@
  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2h2MzZyYWJnYzdwYWJtNmZmeTZkcGhyaWQxd24yNWp1a3p5MnQyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3ZrVw8NkxIly/giphy.gif" alt="Description" style="width: 600px; height: 500px;">
 </div>
 
- <div align="center" style="border: 2px black solid;"> ꧁༺ 𝓥𝓘𝓢𝓘𝓣𝓞𝓡 𝓒𝓞𝓤𝓝𝓣𝓔𝓡 ༻꧂<br>
-    <img src="https://profile-counter.glitch.me/Castlevnia1/count.svg" />
-  </p>
+<div align="center">
+<div align="center" style="border: 2px gray solid; padding: 10px; display: inline-block;">
+    <div style="text-align: center;">
+        ꧁༺ 𝓥𝓘𝓢𝓘𝓣𝓞𝓡 𝓒𝓞𝓤𝓝𝓣𝓔𝓡 ༻꧂<br>
+        <img src="https://profile-counter.glitch.me/Castlevnia1/count.svg" alt="Visitor Counter" />
+    </div>
+</div>
+<br>
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </div>
+
 <br>
 <h1 align="center">リヤン 〜<br>𝐶𝑎𝑠𝑡𝑙𝑒𝑣𝑛𝑖𝑎 𝐷𝑒𝑠𝑢!</h1>
 <img align="center" height="auto" src="https://i.imgur.com/hEvZojZ.jpg"/>
