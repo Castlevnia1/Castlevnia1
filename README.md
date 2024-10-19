@@ -1,6 +1,8 @@
 <h1 align="center">A l o n e. 〜<br></h1>
-<center><img  fit="fill" class="center" alt="GIF" src="https://media.giphy.com/media/mlBDoVLOGidEc/giphy.gif?cid=6c09b9526f21c6be8239ff5281e3af2356b1293d644eaa90&rid=giphy.gif&ct=g" /></center>
-<p align="center"> 
+<div style="text-align: center;">
+  <img alt="GIF" src="https://media.giphy.com/media/mlBDoVLOGidEc/giphy.gif?cid=6c09b9526f21c6be8239ff5281e3af2356b1293d644eaa90&rid=giphy.gif&ct=g" />
+</div>
+
   Visitor Count<br>
   <img src="https://profile-counter.glitch.me/Castlevnia1/count.svg" />
 </p>
