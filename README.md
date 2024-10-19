@@ -63,7 +63,7 @@ const castle = () => {
   />
 
   <!-- GitHub Stats -->
-  ![Castlevnia1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Castlevnia1&show_icons=true&theme=tokyonight)
+  ![Castlevnia1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Castlevnia1&show_icons=true&theme=gruvbox)
 
   <!-- Top Languages -->
   <a href="https://github.com/Castlevnia1">
