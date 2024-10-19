@@ -4,15 +4,15 @@
 </div>
 <br><br>
 <div align="center">
-<div align="center" style="border: 2px gray solid; padding: 10px; display: inline-block;">
-    <div style="text-align: center;">
-        ꧁༺ 𝓥𝓘𝓢𝓘𝓣𝓞𝓡 𝓒𝓞𝓤𝓝𝓣𝓔𝓡 ༻꧂  <br><br>
-        <img src="https://profile-counter.glitch.me/Castlevnia1/count.svg" alt="Visitor Counter" />
+    <div align="center" style="border: 2px gray solid; padding: 10px; display: inline-block;">
+        <div style="text-align: center;">
+          <p style="color:#04fc14;"> ꧁༺ 𝓥𝓘𝓢𝓘𝓣𝓞𝓡 𝓒𝓞𝓤𝓝𝓣𝓔𝓡 ༻꧂</p>
+            <img src="https://profile-counter.glitch.me/Castlevnia1/count.svg" alt="Visitor Counter" />
+        </div>
     </div>
-</div>
-<br>
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="90">
-</div>
+    <br>
+    <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="90">
+    </div>
 
 <br>
 <h1 align="center">リヤン 〜<br>𝐶𝑎𝑠𝑡𝑙𝑒𝑣𝑛𝑖𝑎 𝐷𝑒𝑠𝑢!</h1>
