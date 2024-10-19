@@ -1,8 +1,8 @@
 <h1 align="center">   • ▌▌ ║ ɴᴏʙʟᴇᴤᴤ ᴏʙʟɪɢᴇ ║ ▌▌ •<br></h1>
 <div align="center">
  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjRkZHkzNHUwdjJucnVqc2p2aTBoejB3Y2s5dmdldjJ1YmUybXNveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eATt3b9TKBfB2l0z4G/giphy-downsized-large.gif" 
-     alt="Description" 
-     style="max-width: 700px; height: auto;">
+     alt="image" 
+     style="max-width: 800px; height: auto;">
 </div>
 <br><br>
 <div align="center">
