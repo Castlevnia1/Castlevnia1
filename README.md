@@ -68,8 +68,16 @@ src="https://cardivo.vercel.app/api?name=Castlevnia%20~&description=Hi,%20i%27m%
 [![Castlevnia1's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ywxzyy&theme=xcode)](https://github.com/anuraghazra/github-readme-stats)
 
 
-NEWWWWWWWWWWWWWWWWWWW
 
 
-<p align="center"> <img src="https://media.giphy.com/media/1jgLDGD1Bn27e/giphy.gif?cid=ecf05e474gbgb2vl6fx5pfb6tq934gsiypiqrf61pdxw0azk&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"> <img src="https://media.giphy.com/media/1jgLDGD1Bn27e/giphy.gif?cid=ecf05e474gbgb2vl6fx5pfb6tq934gsiypiqrf61pdxw0azk&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"> <img src="https://media.giphy.com/media/1jgLDGD1Bn27e/giphy.gif?cid=ecf05e474gbgb2vl6fx5pfb6tq934gsiypiqrf61pdxw0azk&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"> <img src="https://media.giphy.com/media/1jgLDGD1Bn27e/giphy.gif?cid=ecf05e474gbgb2vl6fx5pfb6tq934gsiypiqrf61pdxw0azk&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"> <img src="https://media.giphy.com/media/1jgLDGD1Bn27e/giphy.gif?cid=ecf05e474gbgb2vl6fx5pfb6tq934gsiypiqrf61pdxw0azk&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzlyN2E5a3g4Z3AyNTJjb3p4djRlZDV5dTBxOWlja3Zvc3RuZW1qbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/eyvYnRdP8OQhQ0kW30/giphy.gif" width="300">
+
+
+
+
+
+
+
+
+
+
+
