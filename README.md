@@ -1,6 +1,6 @@
 <h1 align="center">   • ▌▌ ║ 𝔸𝕃𝕆ℕ𝔼 ║ ▌▌ •<br></h1>
 <div align="center">
- <img src="https://cdn.shoob.gg/images/cards/S/dc978e4a9d5528d514e0249c6e5db17d0ac4cf0b833ed7df1c0d8b8961ccae94.gif" alt="Description" style="width: 600px; height: 500px;">
+ <img src="https://i.imgur.com/8dVgrOp.gif" alt="Description" style="width: 600px; height: 500px;">
 </div>
 <br><br>
 <div align="center">
