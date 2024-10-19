@@ -1,6 +1,6 @@
 <h1 align="center">   • ▌▌ ║ 𝔸𝕃𝕆ℕ𝔼 ║ ▌▌ •<br></h1>
 <div align="center">
- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnZoOWFjZHA3ZWllejh4dDM3eHgyZzUwYW50YzI4NTk2ODZuMTExMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oHsKFiT28Id0I/giphy.gif" alt="Description" style="width: 600px; height: 500px;">
+ <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjRkZHkzNHUwdjJucnVqc2p2aTBoejB3Y2s5dmdldjJ1YmUybXNveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eATt3b9TKBfB2l0z4G/giphy-downsized-large.gif" alt="Description" style="width: 600px; height: 500px;">
 </div>
 <br><br>
 <div align="center">
