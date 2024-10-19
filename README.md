@@ -74,7 +74,7 @@ const castle = () => {
   </a>
 
   <!-- GitHub Streak Stats -->
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Castlevnia1&theme=shadow_red-duo&locale=en)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Castlevnia1&theme=neon-duo&locale=en)](https://git.io/streak-stats)
 
   <!-- Time Spent -->
   <h3>Time Spent</h3>
