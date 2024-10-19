@@ -83,7 +83,7 @@ const castle = () => {
   [![WakaTime Badge](https://wakatime.com/badge/user/ef147abe-f36f-460c-87f3-51b50708c5bd.svg)](https://wakatime.com/@ef147abe-f36f-460c-87f3-51b50708c5bd)
 
   <!-- WakaTime Stats -->
-  [![Castlevnia1's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=xyz&theme=xcode)](https://github.com/anuraghazra/github-readme-stats)
+  [![Castlevnia1's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Castlevnia&theme=neon)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
