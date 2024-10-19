@@ -16,7 +16,7 @@
 
 <br>
 <h1 align="center">リヤン 〜<br>𝐶𝑎𝑠𝑡𝑙𝑒𝑣𝑛𝑖𝑎 𝐷𝑒𝑠𝑢!</h1>
-<img align="center" height="auto" src="https://image-2.uhdpaper.com/wallpaper/anime-boy-lofi-cat-desktop-computer-4k-wallpaper-uhdpaper.com-1@2@b.jpg"/>
+<img align="center" height="auto" src="https://imgur.com/a/qN8kKpr"/>
 
 
 
