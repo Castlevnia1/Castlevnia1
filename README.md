@@ -19,8 +19,7 @@
 
 <br>
 <h1 align="center">リヤン 〜<br>𝐶𝑎𝑠𝑡𝑙𝑒𝑣𝑛𝑖𝑎 𝐷𝑒𝑠𝑢!</h1>
-<h3 align="center">🧙‍♂️ Welcome to my world — Castlevnia デス！</h3>
-<p align="center">“Life’s a journey through code, chaos, and Isekai.”</p>
+
 <img align="center" height="auto" src="https://i.imgur.com/hs9O7aF.jpeg"/>
 
 
