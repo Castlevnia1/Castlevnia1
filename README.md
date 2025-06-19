@@ -1,5 +1,5 @@
 <h1 align="center"> ⚔︎ ɴᴏʙʟᴇᴤᴤ ᴏʙʟɪɢᴇ ⚔︎  <br><br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7E4&width=435&lines=%F0%9F%8C%99+Welcome.+Stay+as+long+as+needed.;still+walking+my+little+path+%F0%9F%90%BE;slow+days%2C+gentle+thoughts+%F0%9F%8C%A4%EF%B8%8F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7E4&width=435&lines=%F0%9F%8C%99+Welcome.+Stay+as+long+as+needed.;%F0%9F%8D%83+No+rush%2C+just+quiet+steps.;%F0%9F%8E%90+Let+the+breeze+rewrite+your+pace." alt="Typing SVG" /></a>
 
  </h1>
 <div align="center">
