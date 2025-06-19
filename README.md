@@ -70,8 +70,7 @@ Still growing — like moss between the stones.
   />
 
   <!-- GitHub Stats -->
-   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&preferLogin=false">    <img  alt="Castlevnia1's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Castlevnia1?cardType=level-alternate&preferLogin=false" />  </a>
-
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Castlevnia1?cardType=level&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
   <!-- Top Languages -->
   <a href="https://github.com/Castlevnia1">
     <img 
