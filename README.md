@@ -70,7 +70,7 @@ Still growing — like moss between the stones.
   />
 
   <!-- GitHub Stats -->
-  ![Castlevnia1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Castlevnia1&show_icons=true&theme=neon)
+   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&preferLogin=false">    <img  alt="Castlevnia1's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Castlevnia1?cardType=level-alternate&preferLogin=false" />  </a>
 
   <!-- Top Languages -->
   <a href="https://github.com/Castlevnia1">
