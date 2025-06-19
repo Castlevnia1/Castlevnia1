@@ -98,13 +98,6 @@ const castle = () => {
 
 
 
-<div align="center">
-    <img src="https://i.giphy.com/media/3ohc0YpD0LR5wRyz1S/giphy.gif" alt="" style="width: 100px; height: 90px;">
-    <img src="https://i.giphy.com/media/3ohc0YpD0LR5wRyz1S/giphy.gif" alt="" style="width: 100px; height: 90px;">
-    <img src="https://i.giphy.com/media/3ohc0YpD0LR5wRyz1S/giphy.gif" alt="" style="width: 100px; height: 90px;">
-</div>
-
-
 
 
 
