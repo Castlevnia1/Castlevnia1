@@ -40,16 +40,14 @@
 
 - ⚡ Anu.. **I Am Anime.**
 
-### About Me
-```js
-const castle = () => {
-  return {
-    pronouns: "Anime" | "null",
-    country: "Isekai",
-    bio: "Anything I Want."
-  }
-}
-```
+## 🌾 About Me
+
+Quiet coder. Calm learner.  
+Still growing — like moss between the stones.
+
+🍃 Soft code. Open hands. Peaceful heart.
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
