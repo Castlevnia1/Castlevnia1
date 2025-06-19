@@ -3,10 +3,11 @@
 
  </h1>
 <div align="center">
- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWlpdDVlMXR3MzM5c2g1eHR2cnRmenY0cnU5ODFvbGRlMXlrOHh2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eHQ5BsgBIBIGI/giphy.gif" 
-     alt="image" 
-     style="align="center"; height: "auto;">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWlpdDVlMXR3MzM5c2g1eHR2cnRmenY0cnU5ODFvbGRlMXlrOHh2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eHQ5BsgBIBIGI/giphy.gif" 
+       alt="image" 
+       style="width: 100%; height: auto; display: block;">
 </div>
+
 <br><br>
 <div align="center">
     <div align="center" style="border: 2px gray solid; padding: 10px; display: inline-block;">
