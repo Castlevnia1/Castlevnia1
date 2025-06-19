@@ -92,6 +92,9 @@ Still growing — like moss between the stones.
   [![Castlevnia1's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Castlevnia&theme=neon)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
+- Preview: ![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
+
+
 
 
 
