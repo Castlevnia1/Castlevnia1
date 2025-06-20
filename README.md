@@ -96,11 +96,7 @@ Still growing — like moss between the stones.
 -  ![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
 
 
-<h1 align="center">ʜɪ 👋, ɪ'ᴍ Castlevnia. ᴜsᴇʀɴᴀᴍᴇ- Castlevnia1</h1>
-<h3 align="center">I am a noob coder. Learning javascript and Node js👀.</h3>
-<a href="https://api.daily.dev/get?r=Castlevnia1"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
-<a href = "https://github.com/Castlevnia1"><img src = "https://cardivo.vercel.app/api?name=Castlevnia1&description=A%20IS%20NOOB%20CODER%20ALWAYS%20IN%20SEARCH%20OF%20NEW%20THINGS&image=https://wallpaperaccess.com/full/4370278.jpg&backgroundColor=%23ecf0f1&github=Castlevnai1&pattern=topography&colorPattern=%23eaeaea"/><a>
-<br><p align='center'>
+
 
 
 
