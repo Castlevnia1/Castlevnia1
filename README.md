@@ -63,11 +63,11 @@ Still growing — like moss between the stones.
 ### 𝐒𝐓𝐀𝐓𝐈𝐒𝐓𝐈𝐂𝐒 <br>
 <div align="center">
   <!-- Card Profile Section -->
-  <img 
-    src="https://cardivo.vercel.app/api?name=Castlevnia%20~&description=Hi,%20i%27m%20a%20just%20Anime,%20Nice%20to%20meet%20you%20👻&image=https://avatars.githubusercontent.com/u/110631529?s=96&v=4&backgroundColor=%23ecf0f1&github=Castlevnia1&pattern=leaf&colorPattern=%23eaeaea" 
-    alt="Castlevnia Profile Card" 
-    style="height: auto;"
-  />
+ <h1 align="center">ʜɪ 👋, ɪ'ᴍ Castlevnia. ᴜsᴇʀɴᴀᴍᴇ- Castlevnia1</h1>
+<h3 align="center">A work in progress ✨ — always learning 📖, always evolving 🌿👀.</h3>
+<a href="https://api.daily.dev/get?r=Dipeshu-001"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
+<a href = "https://github.com/Castlevnia1"><img src = "https://cardivo.vercel.app/api?name=Castlevnia1&description=A%20IS%20NOOB%20CODER%20ALWAYS%20IN%20SEARCH%20OF%20NEW%20THINGS&image=https://wallpaperaccess.com/full/4370278.jpg&backgroundColor=%23ecf0f1&github=Castlevnia1&pattern=topography&colorPattern=%23eaeaea"/><a>
+<br><p align='center'><img src="https://komarev.com/ghpvc/?username=Toshi-san&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="Castlevnia1" />
 
   <!-- GitHub Stats -->
   [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Castlevnia1?cardType=level&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
